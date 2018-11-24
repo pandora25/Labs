@@ -148,9 +148,9 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #149dcc !important;
-  border-color: #149dcc !important;
-  color: #ffffff !important;
+  background-color: red !important;
+  border-color: red !important;
+  color:white !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
